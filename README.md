@@ -11,5 +11,8 @@ This tutorial will demonstrate how extract data from social networks such as: [F
 Access the https://apps.twitter.com/ to create apps. And sign in. 
 After it is necessary to create new app and to provide some details about the application.
 
+All documantation about Twitter API can be found in this developer's site https://developer.twitter.com/
 
-All documantation about Twitter can be found in this developer's site https://developer.twitter.com/ 
+### Facebook
+Access the https://developers.facebook.com/ to create apps. Sign in.
+My apps >> Add a New App
